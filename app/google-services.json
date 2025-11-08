@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904077822167",
+    "project_id": "hardwareshopsystem",
+    "storage_bucket": "hardwareshopsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904077822167:android:b56731e34387cb5354c892",
+        "android_client_info": {
+          "package_name": "com.yourcompany.hardwareshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwWUhRoYHZekOFhI_SRv4aOu9UI5V200"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

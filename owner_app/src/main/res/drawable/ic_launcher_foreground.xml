@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Briefcase Body -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M27,45h54v27H27z" />
+
+    <!-- Briefcase Handle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M36,36h36v9H36z" />
+
+    <!-- Wrench Tool -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54c0,-2.2 1.8,-4 4,-4s4,1.8 4,4s-1.8,4 -4,4S54,56.2 54,54z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,54l8,-8l-4,-4l-8,8l4,4z" />
+
+    <!-- Screwdriver Tool -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M45,63l-6,-6l12,-12l6,6L45,63z" />
+
+    <!-- Hammer Tool -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M63,45l6,6l-12,12l-6,-6L63,45z" />
+
+</vector>

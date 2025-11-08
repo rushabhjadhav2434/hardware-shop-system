@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Simple Shopping Cart Body -->
+    <path
+        android:fillColor="#FFF44336"
+        android:pathData="M27,63h54v9H27z" />
+
+    <!-- Shopping Cart Basket -->
+    <path
+        android:fillColor="#FFF44336"
+        android:pathData="M27,45h54v18H27z" />
+
+    <!-- Shopping Cart Handle -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M36,45v-9h36v9" />
+
+</vector>
